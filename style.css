@@ -120,6 +120,7 @@ body {
 #main {
 	overflow:hidden;
 	padding-top:117px;
+	padding-bottom:70px;
     width:960px;
     margin:0 auto;
 }
