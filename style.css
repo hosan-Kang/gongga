@@ -256,7 +256,7 @@ body {
 
 
 #foot {
-    position: absolute;
+    position: fixed;
     bottom: 0px;
     left: 0;
     width: 100%;
