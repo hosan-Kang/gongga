@@ -125,8 +125,17 @@ body {
 }
 
 #main .title {
-	position: relative;
-	text-align: center;
+	height: 238px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 97px;
+    bottom: 0;
+    margin: auto;
+}
+
+#main .title > a {
+	display: block;
 }
 
 #main .title1 {
@@ -246,12 +255,12 @@ body {
 }
 
 
-#foot{
-	position:relative;
-	margin-top:20px;
-	margin-bottom:20px;
-	clear:both;
-	color:#b9b9b9;
+#foot {
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    width: 100%;
+    color: #b9b9b9;
 }
 
 /*Opera Fix*/
