@@ -120,12 +120,11 @@ body {
 #main {
 	overflow:hidden;
 	padding-top:117px;
-	padding-bottom:70px;
     width:960px;
     margin:0 auto;
 }
 
-#main .title.center{
+#main .title .center{
 	height: 238px;
     position: absolute;
     left: 0;
@@ -135,7 +134,7 @@ body {
     margin: auto;
 }
 
-#main .title.center > a {
+#main .title > a {
 	display: block;
 }
 
@@ -257,13 +256,12 @@ body {
 
 
 #foot {
-    position: fixed;
+    position: absolute;
     bottom: 0px;
     left: 0;
     width: 100%;
     color: #b9b9b9;
 	padding: 10px 0px;
-	background-color:#000;
 }
 
 /*Opera Fix*/
