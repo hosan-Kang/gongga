@@ -78,7 +78,7 @@ figure,article,header,footer,nav,hgroup,video,audio,aside,main {display: block;}
 }
 
 /* logo */
-#logo {width: 172px;height: 60px;position: absolute;left: 60px;top: 40px;z-index: 2;-webkit-transition: top 300ms, width 300ms, height 300ms;transition: top 300ms, width 300ms, height 300ms;}
+#logo {width: 172px;height: 60px;position: absolute;left: 60px;top: 20px;z-index: 2;-webkit-transition: top 300ms, width 300ms, height 300ms;transition: top 300ms, width 300ms, height 300ms;}
 #logo a {display: block;width: 100%;height: 100%;}
 #logo a svg, #logo a img {display: block;width: 100%;height: 100%;}
 
