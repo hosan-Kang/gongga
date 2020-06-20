@@ -124,7 +124,7 @@ body {
     margin:0 auto;
 }
 
-#main .title .center{
+#main .title.center{
 	height: 238px;
     position: absolute;
     left: 0;
@@ -134,7 +134,7 @@ body {
     margin: auto;
 }
 
-#main .title > a {
+#main .title.center > a {
 	display: block;
 }
 
