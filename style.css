@@ -120,6 +120,7 @@ body {
 #main {
 	overflow:hidden;
 	padding-top:117px;
+	padding-bottom:70px;
     width:960px;
     margin:0 auto;
 }
@@ -257,6 +258,7 @@ body {
 
 #foot {
     position: absolute;
+	background-color:#000;
     bottom: 0px;
     left: 0;
     width: 100%;
