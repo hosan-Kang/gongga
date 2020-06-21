@@ -21,12 +21,12 @@ table {
 	border-spacing: 1px 0;
 }
 /* 배경 */
-body {  
-  background:url(summer.jpg) no-repeat center center fixed;  
-  -webkit-background-size: cover; 
-  -moz-background-size: cover; 
-  -o-background-size: cover; 
-  background-size: cover; 
+body {
+  background:url(summer.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 /* **************************************** *
@@ -74,7 +74,7 @@ figure,article,header,footer,nav,hgroup,video,audio,aside,main {display: block;}
 	.header_wrap {max-width: inherit;}
 	#logo {left: 60px}
 	.other_menu_container {right: 46px;}
-	
+
 }
 
 /* logo */
@@ -95,7 +95,7 @@ figure,article,header,footer,nav,hgroup,video,audio,aside,main {display: block;}
 /* **************************************** *
  * BUTTON
  * **************************************** */
- 
+
  /* Icon Button */
 .ys_btn_icon {display: inline-block;vertical-align: middle;min-width: 168px;padding: 25px 33px 24px;position: relative;font-size: 15px;line-height: 1;text-align: center;letter-spacing: -0.005em;color: #fff;background: none;border: none;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;cursor: pointer;}
 .ys_btn_icon > svg {width: 100%;height: 100%;position: absolute;left: 50%;top: 50%;-webkit-transform: translateX(-50%) translateY(-50%);-ms-transform: translateX(-50%) translateY(-50%);transform: translateX(-50%) translateY(-50%);z-index: 1;}
@@ -103,12 +103,12 @@ figure,article,header,footer,nav,hgroup,video,audio,aside,main {display: block;}
 .ys_btn_icon > span {display: inline-block;padding-right: 40px;position: relative;z-index: 2;}
 .ys_btn_icon > span:after {display: block;width: 20px;height: 20px;position: absolute;right: -8px;top: 50%;margin-top: -11px;font-family: 'jt_font';font-size: 20px;font-weight: normal;line-height: 20px;text-align: center;}
 html.ios .jt_btn_icon > span:after {margin-top: -9px;}
- 
+
  /* layout */
  html, body{
 	 height:100%;
  }
- 
+
 body {
 	text-align: center;
 }
@@ -170,7 +170,7 @@ body {
 	font-size:60px;
 	font-weight:bold;
 	color:#ffffff;
-	
+
 }
 
 #main .title3 .first {
@@ -223,10 +223,11 @@ body {
 }
 
 #main .title .txt_box {
-	
+
 	width:800px;
 	height:100%;
-	
+	font-size: 18px;
+
 }
 
 #main .color {
