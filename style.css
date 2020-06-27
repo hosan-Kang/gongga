@@ -22,7 +22,8 @@ table {
 }
 /* 배경 */
 body {
-  background:url(summer.jpg) no-repeat center center fixed;
+  /* background:url(summer.jpg) no-repeat center center fixed; */
+  background-color:#2f2f35;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
